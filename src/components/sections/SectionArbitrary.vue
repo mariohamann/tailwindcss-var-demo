@@ -12,6 +12,7 @@
           <li>You can set and use arbitrary values for both spacings and colors. </li>
           <li>In the example below height and roundedness resize perfectly with the width of the object.</li>
         </ul>
+        <p>Try yourself in <a href="https://play.tailwindcss.com/ETCMSUlWiv" target="_blank">Tailwind CSS Playground</a>.</p>
       </div>
     </template>
   </ChapterHeader>

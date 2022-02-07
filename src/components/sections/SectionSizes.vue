@@ -12,6 +12,7 @@
           <li>Besides color variables you can set variables for spacings.</li>
           <li>You can use the variables for width, height, margins etc.</li>
         </ul>
+        <p>Try yourself in <a href="https://play.tailwindcss.com/ojWbNZGdMY" target="_blank">Tailwind CSS Playground</a>.</p>
       </div>
     </template>
   </ChapterHeader>

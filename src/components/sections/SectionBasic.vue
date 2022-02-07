@@ -13,6 +13,7 @@
           <li>Fill the variable (dynamically) with e. g. <InlineCode>var-pink</InlineCode>.</li>
           <li><InlineCode>text-var-600</InlineCode> renders as <InlineCode>text-pink-600</InlineCode>, <InlineCode>bg-var-50</InlineCode> renders as <InlineCode>bg-pink-50</InlineCode>.</li>
         </ol>
+        <p>Try yourself in <a href="https://play.tailwindcss.com/8IoJCK0r1t" target="_blank">Tailwind CSS Playground</a>.</p>
       </div>
     </template>
   </ChapterHeader>

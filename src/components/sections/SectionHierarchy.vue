@@ -13,6 +13,7 @@
           <li>You can overwrite variables in every child.</li>
           <li>You can overwrite single variants of the variable with other colors or opacities.</li>
         </ul>
+        <p>Try yourself in <a href="https://play.tailwindcss.com/fQPslGpLCw" target="_blank">Tailwind CSS Playground</a>.</p>
       </div>
     </template>
   </ChapterHeader>
