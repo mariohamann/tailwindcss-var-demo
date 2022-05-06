@@ -1,0 +1,1 @@
+import{_ as r,r as o,o as c,c as t,b as n}from"./app.cfa26cc0.js";const s={},a={class:"grid place-items-center w-full min-h-screen bg-blue-100"};function _(i,l){const e=o("router-view");return c(),t("main",a,[n(e)])}var f=r(s,[["render",_]]);export{f as default};

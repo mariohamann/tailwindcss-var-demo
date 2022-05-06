@@ -12,7 +12,7 @@ module.exports = {
         primary: colors.sky,
         secondary: colors.amber,
         gray: colors.slate,
-        var: {
+        $color: {
           50: 'var(--tw-var-color-50)',
           100: 'var(--tw-var-color-100)',
           200: 'var(--tw-var-color-200)',
@@ -24,6 +24,9 @@ module.exports = {
           800: 'var(--tw-var-color-800)',
           900: 'var(--tw-var-color-900)',
         },
+      },
+      spacing: {
+        $spacing: 'var(--tw-var-spacing)',
       },
     },
   },
