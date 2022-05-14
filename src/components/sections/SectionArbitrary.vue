@@ -4,7 +4,7 @@
       Inline Scripting
     </template> -->
     <template #header>
-      Arbitary Values
+      Arbitrary Values
     </template>
     <template #content>
       <div class="prose">
