@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@headlessui/vue": "^1.6.1",
-    "@mariohamann/tailwindcss-var": "1.0.0",
+    "@mariohamann/tailwindcss-var": "2.1.0",
     "@tailwindcss/aspect-ratio": "^0.4.0",
     "@tailwindcss/forms": "^0.4.1",
     "@tailwindcss/typography": "^0.5.2",
